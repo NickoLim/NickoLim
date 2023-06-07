@@ -1,0 +1,51 @@
+D:\StopwatchCopy\PROJECT1\obj\Debug\net6.0-windows\PROJECT1.vbproj.AssemblyReference.cache
+D:\StopwatchCopy\PROJECT1\obj\Debug\net6.0-windows\PROJECT1.Form1.resources
+D:\StopwatchCopy\PROJECT1\obj\Debug\net6.0-windows\PROJECT1.vbproj.GenerateResource.cache
+D:\StopwatchCopy\PROJECT1\obj\Debug\net6.0-windows\PROJECT1.GeneratedMSBuildEditorConfig.editorconfig
+D:\StopwatchCopy\PROJECT1\obj\Debug\net6.0-windows\PROJECT1.AssemblyInfoInputs.cache
+D:\StopwatchCopy\PROJECT1\obj\Debug\net6.0-windows\PROJECT1.AssemblyInfo.vb
+D:\StopwatchCopy\PROJECT1\obj\Debug\net6.0-windows\PROJECT1.vbproj.CoreCompileInputs.cache
+D:\StopwatchCopy\PROJECT1\bin\Debug\net6.0-windows\PROJECT1.exe
+D:\StopwatchCopy\PROJECT1\bin\Debug\net6.0-windows\PROJECT1.deps.json
+D:\StopwatchCopy\PROJECT1\bin\Debug\net6.0-windows\PROJECT1.runtimeconfig.json
+D:\StopwatchCopy\PROJECT1\bin\Debug\net6.0-windows\PROJECT1.dll
+D:\StopwatchCopy\PROJECT1\bin\Debug\net6.0-windows\PROJECT1.pdb
+D:\StopwatchCopy\PROJECT1\obj\Debug\net6.0-windows\PROJECT1.dll
+D:\StopwatchCopy\PROJECT1\obj\Debug\net6.0-windows\refint\PROJECT1.dll
+D:\StopwatchCopy\PROJECT1\obj\Debug\net6.0-windows\PROJECT1.pdb
+D:\StopwatchCopy\PROJECT1\obj\Debug\net6.0-windows\PROJECT1.genruntimeconfig.cache
+D:\StopwatchCopy\PROJECT1\obj\Debug\net6.0-windows\ref\PROJECT1.dll
+D:\SimpleStopwatch\PROJECT1\bin\Debug\net6.0-windows\PROJECT1.exe
+D:\SimpleStopwatch\PROJECT1\bin\Debug\net6.0-windows\PROJECT1.deps.json
+D:\SimpleStopwatch\PROJECT1\bin\Debug\net6.0-windows\PROJECT1.runtimeconfig.json
+D:\SimpleStopwatch\PROJECT1\bin\Debug\net6.0-windows\PROJECT1.dll
+D:\SimpleStopwatch\PROJECT1\bin\Debug\net6.0-windows\PROJECT1.pdb
+D:\SimpleStopwatch\PROJECT1\obj\Debug\net6.0-windows\PROJECT1.vbproj.AssemblyReference.cache
+D:\SimpleStopwatch\PROJECT1\obj\Debug\net6.0-windows\PROJECT1.Form1.resources
+D:\SimpleStopwatch\PROJECT1\obj\Debug\net6.0-windows\PROJECT1.vbproj.GenerateResource.cache
+D:\SimpleStopwatch\PROJECT1\obj\Debug\net6.0-windows\PROJECT1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SimpleStopwatch\PROJECT1\obj\Debug\net6.0-windows\PROJECT1.AssemblyInfoInputs.cache
+D:\SimpleStopwatch\PROJECT1\obj\Debug\net6.0-windows\PROJECT1.AssemblyInfo.vb
+D:\SimpleStopwatch\PROJECT1\obj\Debug\net6.0-windows\PROJECT1.vbproj.CoreCompileInputs.cache
+D:\SimpleStopwatch\PROJECT1\obj\Debug\net6.0-windows\PROJECT1.dll
+D:\SimpleStopwatch\PROJECT1\obj\Debug\net6.0-windows\refint\PROJECT1.dll
+D:\SimpleStopwatch\PROJECT1\obj\Debug\net6.0-windows\PROJECT1.pdb
+D:\SimpleStopwatch\PROJECT1\obj\Debug\net6.0-windows\PROJECT1.genruntimeconfig.cache
+D:\SimpleStopwatch\PROJECT1\obj\Debug\net6.0-windows\ref\PROJECT1.dll
+C:\SCHOOL FILES\SimpleStopwatch\PROJECT1\bin\Debug\net6.0-windows\PROJECT1.exe
+C:\SCHOOL FILES\SimpleStopwatch\PROJECT1\bin\Debug\net6.0-windows\PROJECT1.deps.json
+C:\SCHOOL FILES\SimpleStopwatch\PROJECT1\bin\Debug\net6.0-windows\PROJECT1.runtimeconfig.json
+C:\SCHOOL FILES\SimpleStopwatch\PROJECT1\bin\Debug\net6.0-windows\PROJECT1.dll
+C:\SCHOOL FILES\SimpleStopwatch\PROJECT1\bin\Debug\net6.0-windows\PROJECT1.pdb
+C:\SCHOOL FILES\SimpleStopwatch\PROJECT1\obj\Debug\net6.0-windows\PROJECT1.vbproj.AssemblyReference.cache
+C:\SCHOOL FILES\SimpleStopwatch\PROJECT1\obj\Debug\net6.0-windows\PROJECT1.Form1.resources
+C:\SCHOOL FILES\SimpleStopwatch\PROJECT1\obj\Debug\net6.0-windows\PROJECT1.vbproj.GenerateResource.cache
+C:\SCHOOL FILES\SimpleStopwatch\PROJECT1\obj\Debug\net6.0-windows\PROJECT1.GeneratedMSBuildEditorConfig.editorconfig
+C:\SCHOOL FILES\SimpleStopwatch\PROJECT1\obj\Debug\net6.0-windows\PROJECT1.AssemblyInfoInputs.cache
+C:\SCHOOL FILES\SimpleStopwatch\PROJECT1\obj\Debug\net6.0-windows\PROJECT1.AssemblyInfo.vb
+C:\SCHOOL FILES\SimpleStopwatch\PROJECT1\obj\Debug\net6.0-windows\PROJECT1.vbproj.CoreCompileInputs.cache
+C:\SCHOOL FILES\SimpleStopwatch\PROJECT1\obj\Debug\net6.0-windows\PROJECT1.dll
+C:\SCHOOL FILES\SimpleStopwatch\PROJECT1\obj\Debug\net6.0-windows\refint\PROJECT1.dll
+C:\SCHOOL FILES\SimpleStopwatch\PROJECT1\obj\Debug\net6.0-windows\PROJECT1.pdb
+C:\SCHOOL FILES\SimpleStopwatch\PROJECT1\obj\Debug\net6.0-windows\PROJECT1.genruntimeconfig.cache
+C:\SCHOOL FILES\SimpleStopwatch\PROJECT1\obj\Debug\net6.0-windows\ref\PROJECT1.dll
